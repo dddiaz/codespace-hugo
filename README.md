@@ -1,0 +1,2 @@
+# codespace-hugo
+Hugo Codespace
