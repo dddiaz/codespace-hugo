@@ -1,4 +1,3 @@
-# FROM mcr.microsoft.com/devcontainers/universal:linux
 FROM mcr.microsoft.com/devcontainers/universal:2-linux
 
 # The base universal image installs the latest version of Hugo
